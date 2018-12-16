@@ -1,0 +1,101 @@
+2018-12-16 21:09:18,824 - INFO - start to build model based on weights in -> weights/weights.h5
+2018-12-16 21:09:38,903 - INFO - suc create v2 model
+2018-12-16 21:09:55,704 - INFO - model init complete!
+2018-12-16 21:09:55,704 - INFO - Init aes_model over
+2018-12-16 21:09:55,704 - INFO - Start to listener at port 8848
+2018-12-16 21:10:10,010 - INFO - Socket conn eastablished with 127.0.0.1:54392
+2018-12-16 21:10:10,010 - INFO - Received path at -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/321123.png
+2018-12-16 21:10:10,010 - INFO - Now processing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/321123.png
+2018-12-16 21:10:10,145 - INFO - Now preprocessing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/321123.png
+2018-12-16 21:10:18,656 - INFO - The score for img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/321123.png is 58.66
+2018-12-16 21:10:18,657 - INFO - Aes over, score = 58.6641976673 for img->/Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/321123.png
+2018-12-16 21:10:18,657 - INFO - Socket conn eastablished with 127.0.0.1:54395
+2018-12-16 21:10:18,657 - INFO - Received path at -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bad1.jpg
+2018-12-16 21:10:18,658 - INFO - Now processing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bad1.jpg
+2018-12-16 21:10:18,691 - INFO - Now preprocessing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bad1.jpg
+2018-12-16 21:10:19,258 - INFO - The score for img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bad1.jpg is 70.02
+2018-12-16 21:10:19,258 - INFO - Aes over, score = 70.022821842 for img->/Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bad1.jpg
+2018-12-16 21:10:19,259 - INFO - Socket conn eastablished with 127.0.0.1:54396
+2018-12-16 21:10:19,259 - INFO - Received path at -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bg.jpg
+2018-12-16 21:10:19,259 - INFO - Now processing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bg.jpg
+2018-12-16 21:10:19,413 - INFO - Now preprocessing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bg.jpg
+2018-12-16 21:10:19,991 - INFO - The score for img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bg.jpg is 58.66
+2018-12-16 21:10:19,991 - INFO - Aes over, score = 58.6604537957 for img->/Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bg.jpg
+2018-12-16 21:10:19,992 - INFO - Socket conn eastablished with 127.0.0.1:54399
+2018-12-16 21:10:19,992 - INFO - Received path at -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/cow.jpg
+2018-12-16 21:10:19,992 - INFO - Now processing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/cow.jpg
+2018-12-16 21:10:20,019 - INFO - Now preprocessing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/cow.jpg
+2018-12-16 21:10:20,581 - INFO - The score for img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/cow.jpg is 57.18
+2018-12-16 21:10:20,582 - INFO - Aes over, score = 57.1827325072 for img->/Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/cow.jpg
+2018-12-16 21:10:20,583 - INFO - Socket conn eastablished with 127.0.0.1:54400
+2018-12-16 21:10:20,583 - INFO - Received path at -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/gakki.jpg
+2018-12-16 21:10:20,583 - INFO - Now processing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/gakki.jpg
+2018-12-16 21:10:20,606 - INFO - Now preprocessing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/gakki.jpg
+2018-12-16 21:10:21,172 - INFO - The score for img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/gakki.jpg is 60.30
+2018-12-16 21:10:21,173 - INFO - Aes over, score = 60.300356382 for img->/Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/gakki.jpg
+2018-12-16 21:10:21,173 - INFO - Socket conn eastablished with 127.0.0.1:54401
+2018-12-16 21:10:21,173 - INFO - Received path at -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/levelbest.jpg
+2018-12-16 21:10:21,173 - INFO - Now processing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/levelbest.jpg
+2018-12-16 21:10:21,224 - INFO - Now preprocessing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/levelbest.jpg
+2018-12-16 21:10:21,793 - INFO - The score for img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/levelbest.jpg is 80.20
+2018-12-16 21:10:21,794 - INFO - Aes over, score = 80.2038450526 for img->/Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/levelbest.jpg
+2018-12-16 21:10:21,794 - INFO - Socket conn eastablished with 127.0.0.1:54403
+2018-12-16 21:10:21,794 - INFO - Received path at -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/mmexport1527064059729_dehaze.jpg
+2018-12-16 21:10:21,795 - INFO - Now processing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/mmexport1527064059729_dehaze.jpg
+2018-12-16 21:10:21,843 - INFO - Now preprocessing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/mmexport1527064059729_dehaze.jpg
+2018-12-16 21:10:22,407 - INFO - The score for img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/mmexport1527064059729_dehaze.jpg is 49.95
+2018-12-16 21:10:22,407 - INFO - Aes over, score = 49.9495683797 for img->/Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/mmexport1527064059729_dehaze.jpg
+2018-12-16 21:10:22,408 - INFO - Socket conn eastablished with 127.0.0.1:54404
+2018-12-16 21:10:22,408 - INFO - Received path at -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/yuantu.jpg
+2018-12-16 21:10:22,408 - INFO - Now processing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/yuantu.jpg
+2018-12-16 21:10:22,449 - INFO - Now preprocessing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/yuantu.jpg
+2018-12-16 21:10:23,021 - INFO - The score for img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/yuantu.jpg is 49.40
+2018-12-16 21:10:23,021 - INFO - Aes over, score = 49.3973901868 for img->/Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/yuantu.jpg
+2018-12-16 21:10:26,768 - INFO - Socket conn eastablished with 127.0.0.1:54405
+2018-12-16 21:10:26,768 - INFO - Received path at -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/321123.png
+2018-12-16 21:10:26,768 - INFO - Now processing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/321123.png
+2018-12-16 21:10:26,903 - INFO - Now preprocessing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/321123.png
+2018-12-16 21:10:27,456 - INFO - The score for img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/321123.png is 58.66
+2018-12-16 21:10:27,457 - INFO - Aes over, score = 58.6641976673 for img->/Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/321123.png
+2018-12-16 21:10:27,457 - INFO - Socket conn eastablished with 127.0.0.1:54406
+2018-12-16 21:10:27,457 - INFO - Received path at -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bad1.jpg
+2018-12-16 21:10:27,458 - INFO - Now processing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bad1.jpg
+2018-12-16 21:10:27,490 - INFO - Now preprocessing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bad1.jpg
+2018-12-16 21:10:28,059 - INFO - The score for img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bad1.jpg is 70.02
+2018-12-16 21:10:28,059 - INFO - Aes over, score = 70.022821842 for img->/Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bad1.jpg
+2018-12-16 21:10:28,060 - INFO - Socket conn eastablished with 127.0.0.1:54407
+2018-12-16 21:10:28,060 - INFO - Received path at -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bg.jpg
+2018-12-16 21:10:28,060 - INFO - Now processing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bg.jpg
+2018-12-16 21:10:28,214 - INFO - Now preprocessing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bg.jpg
+2018-12-16 21:10:28,789 - INFO - The score for img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bg.jpg is 58.66
+2018-12-16 21:10:28,789 - INFO - Aes over, score = 58.6604537957 for img->/Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/bg.jpg
+2018-12-16 21:10:28,790 - INFO - Socket conn eastablished with 127.0.0.1:54409
+2018-12-16 21:10:28,790 - INFO - Received path at -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/cow.jpg
+2018-12-16 21:10:28,790 - INFO - Now processing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/cow.jpg
+2018-12-16 21:10:28,817 - INFO - Now preprocessing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/cow.jpg
+2018-12-16 21:10:29,394 - INFO - The score for img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/cow.jpg is 57.18
+2018-12-16 21:10:29,395 - INFO - Aes over, score = 57.1827325072 for img->/Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/cow.jpg
+2018-12-16 21:10:29,396 - INFO - Socket conn eastablished with 127.0.0.1:54411
+2018-12-16 21:10:29,396 - INFO - Received path at -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/gakki.jpg
+2018-12-16 21:10:29,396 - INFO - Now processing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/gakki.jpg
+2018-12-16 21:10:29,418 - INFO - Now preprocessing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/gakki.jpg
+2018-12-16 21:10:29,988 - INFO - The score for img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/gakki.jpg is 60.30
+2018-12-16 21:10:29,988 - INFO - Aes over, score = 60.300356382 for img->/Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/gakki.jpg
+2018-12-16 21:10:29,989 - INFO - Socket conn eastablished with 127.0.0.1:54412
+2018-12-16 21:10:29,989 - INFO - Received path at -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/levelbest.jpg
+2018-12-16 21:10:29,989 - INFO - Now processing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/levelbest.jpg
+2018-12-16 21:10:30,040 - INFO - Now preprocessing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/levelbest.jpg
+2018-12-16 21:10:30,607 - INFO - The score for img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/levelbest.jpg is 80.20
+2018-12-16 21:10:30,607 - INFO - Aes over, score = 80.2038450526 for img->/Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/levelbest.jpg
+2018-12-16 21:10:30,608 - INFO - Socket conn eastablished with 127.0.0.1:54413
+2018-12-16 21:10:30,608 - INFO - Received path at -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/mmexport1527064059729_dehaze.jpg
+2018-12-16 21:10:30,608 - INFO - Now processing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/mmexport1527064059729_dehaze.jpg
+2018-12-16 21:10:30,657 - INFO - Now preprocessing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/mmexport1527064059729_dehaze.jpg
+2018-12-16 21:10:31,223 - INFO - The score for img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/mmexport1527064059729_dehaze.jpg is 49.95
+2018-12-16 21:10:31,223 - INFO - Aes over, score = 49.9495683797 for img->/Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/mmexport1527064059729_dehaze.jpg
+2018-12-16 21:10:31,224 - INFO - Socket conn eastablished with 127.0.0.1:54414
+2018-12-16 21:10:31,224 - INFO - Received path at -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/yuantu.jpg
+2018-12-16 21:10:31,224 - INFO - Now processing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/yuantu.jpg
+2018-12-16 21:10:31,265 - INFO - Now preprocessing img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/yuantu.jpg
+2018-12-16 21:10:31,831 - INFO - The score for img -> /Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/yuantu.jpg is 49.40
+2018-12-16 21:10:31,832 - INFO - Aes over, score = 49.3973901868 for img->/Users/reillyhe/Documents/codes/myowncode/photo-aes-micro-service/test/testimg/yuantu.jpg
